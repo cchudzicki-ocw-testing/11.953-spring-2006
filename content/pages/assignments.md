@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The assignments section includes the assignments and their solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

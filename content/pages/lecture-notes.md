@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section contains the lecture notes summary and corresponding
+  files.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -83,7 +85,7 @@ Metropolitan-ization Forces, Patterns and Trends, Concerns ({{% resource_link 70
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Accessibility: The Land Use-Transportation Link (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 36694277-2735-bc0e-ad6b-6a21c6c0afdc "PDF - 1.4 MB" %}})
+Accessibility: The Land Use-Transportation Link ({{% resource_link 36694277-2735-bc0e-ad6b-6a21c6c0afdc "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
